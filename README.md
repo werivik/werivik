@@ -1,6 +1,6 @@
 ## Hello World!
 
-<img src="images\hangingflowers.png" style=" width:100% ; height:60px ; object-fit:cover" >
+<img src="images\hangingflowers.png" style=" width:100% ; height:100% ; object-fit:cover" >
 
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
