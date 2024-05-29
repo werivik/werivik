@@ -4,7 +4,7 @@
  <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\hangingflowers.png">
 </picture>
 
-<p>
+<p width="50%">
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
 </p>
