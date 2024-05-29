@@ -30,9 +30,9 @@ Spoken and Written Languages I know:
 
 You can contact me through multiple socials!
 
-[Weronika Vik](https://www.facebook.com/weronika.kwidzynska/)
+[Facebook](https://www.facebook.com/weronika.kwidzynska/)
 
-[Werivik](https://www.instagram.com/werivik/)
+[Instagarm](https://www.instagram.com/werivik/)
 
 <!--
 **werivik/werivik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
