@@ -1,6 +1,6 @@
 ## Hello World!
 
-![alt text](https://github.com/werivik/werivik/blob/main/images\background-pink.png?raw=true)
+<img src="/images/background-pink.png" height="60" width="60" >
 
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
