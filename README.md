@@ -1,4 +1,7 @@
-## Hi there 👋
+## Taking a Peak?
+
+I am a Frontend developer who focuses on HTML, CSS and Javascript
+In my free time I am also designing a 2D game and learning new Code Languages.
 
 <!--
 **werivik/werivik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
