@@ -2,10 +2,6 @@
 
 <img src="images\hangingflowers.png" style=" width:100% ; height:100%>
 
-<picture>
- <img alt="YOUR-ALT-TEXT" src="images\hangingflowers.png">
-</picture>
-
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
 
