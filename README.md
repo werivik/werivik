@@ -1,4 +1,6 @@
-## Hello World!
+# Hello World!
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 <picture>
  <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\hangingflowers.png">
