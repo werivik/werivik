@@ -1,7 +1,7 @@
 ## Hello World!
 
 <picture>
- <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\hangingflowers.png">
+ <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\flowers.png">
 </picture>
 
 ## ABout Me
