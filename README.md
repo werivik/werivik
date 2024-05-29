@@ -1,6 +1,6 @@
 ## Hello World!
 
-<img src="/images/background-pink.png" height="60" width="100vh" >
+<img src="images\background-pinkturned.png" style="height=60 width=100%" >
 
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
