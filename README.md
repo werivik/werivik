@@ -4,10 +4,35 @@
  <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\hangingflowers.png">
 </picture>
 
-<p width="50%">
+## ABout Me
+<p>
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
 </p>
+
+## Programming Languages
+
+- HTML
+- CSS
+- Javascript
+
+<p>
+Spoken and Written Languages I know:
+</p>
+
+## Spoken and Written Languages
+
+- English
+- Norwegian
+- Polish
+
+## Contact
+
+You can contact me through multiple socials!
+
+[Weronika Vik](https://www.facebook.com/weronika.kwidzynska/)
+
+[Werivik](https://www.instagram.com/werivik/)
 
 <!--
 **werivik/werivik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
