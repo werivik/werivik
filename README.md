@@ -1,6 +1,10 @@
 # Hello World!
 
 ## ABout Me
+
+> [!TIP]
+> I am still A Student.
+
 <p>
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
