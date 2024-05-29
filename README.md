@@ -1,7 +1,7 @@
 ## Hello World!
 
 <picture>
- <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\flowers.png">
+ <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\hangingflowers.png">
 </picture>
 
 ## ABout Me
@@ -33,6 +33,10 @@ You can contact me through multiple socials!
 [Facebook](https://www.facebook.com/weronika.kwidzynska/)
 
 [Instagarm](https://www.instagram.com/werivik/)
+
+<picture>
+ <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\flowers.png">
+</picture>
 
 <!--
 **werivik/werivik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
