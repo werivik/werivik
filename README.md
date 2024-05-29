@@ -1,4 +1,4 @@
-## Taking a Peak?
+## Hello World!
 
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
