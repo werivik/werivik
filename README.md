@@ -35,7 +35,7 @@ You can contact me through multiple socials!
 [Instagarm](https://www.instagram.com/werivik/)
 
 <picture>
- <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\flowers.png">
+ <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\flowers2.png">
 </picture>
 
 <!--
