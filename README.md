@@ -1,6 +1,6 @@
 ## Hello World!
 
-![alt text](https://github.com/werivik/werivik/blob/main/images\background-pink.png)
+![alt text](https://github.com/werivik/werivik/blob/main/images\background-pink.png?raw=true)
 
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
