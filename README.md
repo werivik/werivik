@@ -8,6 +8,9 @@
 <p>
 I am a Frontend developer who focuses on HTML, CSS and Javascript
 In my free time I am also designing a 2D game and learning new Code Languages.
+
+ If you would like to see what I have made, you can look through my Github or my own website!
+ www.vikweronika.com
 </p>
 
 ## Programming Languages
