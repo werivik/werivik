@@ -13,11 +13,18 @@ In my free time I am also designing a 2D game and learning new Code Languages.
  www.vikweronika.com
 </p>
 
-## Programming Languages
+## Frontend Knowlegde
 
 - HTML
 - CSS
 - Javascript
+- React
+- Tailwind Css
+- Vite
+- Cypress
+- Figma
+- Husky
+- Parcel
 
 <p>
 Spoken and Written Languages I know:
