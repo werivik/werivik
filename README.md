@@ -11,8 +11,6 @@ I'm Weronika, a developer with a **Fagbrev in Frontend Development**, currently 
 
 By day I build clean, responsive interfaces. In my free time, I like to write and draw, and I'm usually also deep in a 2D game project in Godot.
 
----
-
 ## Frontend Knowledge
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,20 +41,11 @@ Working toward my Fagbrev in Backend Development — plus whatever new language 
 - Designing a 2D game in **Godot**
 - Writing and drawing
 
----
-
 ## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=werivik&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werivik&layout=compact&theme=radical&hide_border=true" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=werivik&theme=radical&hide_border=true" />
 </div>
-
----
 
 ## Spoken and Written Languages
 
@@ -64,7 +53,14 @@ Working toward my Fagbrev in Backend Development — plus whatever new language 
 ![Norwegian](https://img.shields.io/badge/Norwegian-fluent-blueviolet?style=flat-square)
 ![Polish](https://img.shields.io/badge/Polish-fluent-blueviolet?style=flat-square)
 
----
+## Contact
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/weronika.kwidzynska/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/werivik/)
+
+</div>
 
 ## Contact
 
