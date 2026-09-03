@@ -61,12 +61,3 @@ Working toward my Fagbrev in Backend Development — plus whatever new language 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/werivik/)
 
 </div>
-
-## Contact
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/weronika.kwidzynska/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/werivik/)
-
-</div>
