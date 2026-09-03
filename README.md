@@ -1,64 +1,53 @@
-# Hello World!
+# Hello World! 👋
 
-## ABout Me
+## About Me
 
->  [!CAUTION]
-> I am still A Student.
+> [!CAUTION]
+> I am still a student — but a very determined one.
 
-<p>
-I am a Frontend developer who focuses on HTML, CSS and Javascript
-In my free time I am also designing a 2D game and learning new Code Languages.
+I'm Weronika, a developer with a **Fagbrev in Frontend Development**, currently working toward my **Fagbrev in Backend Development** to round things out into full-stack.
 
- If you would like to see what I have made, you can look through my Github or my own website!
- www.vikweronika.com
-</p>
+By day I build clean, responsive interfaces. In my free time, I like to write and draw, and I'm usually also deep in a 2D game project in Godot.
 
-## Frontend Knowlegde
+---
 
+## 🛠️ Frontend Knowledge
 - HTML
 - CSS
-- Javascript
+- JavaScript
+- TypeScript
 - React
-- Tailwind Css
+- Tailwind CSS
+- SASS/SCSS
+- Bootstrap
+- styled-components
 - Vite
 - Cypress
+- Jest
+- ESLint / Prettier
 - Figma
 - Husky
 - Parcel
 
-<p>
-Spoken and Written Languages I know:
-</p>
+## 🌱 Currently Learning
+- Backend Development (working toward my Fagbrev)
+- Whatever new language or tool catches my curiosity next
 
-## Spoken and Written Languages
+## 🎮 Outside of Code
+- Designing a 2D game in **Godot**
+- Writing and drawing
 
+---
+
+## 🗣️ Spoken & Written Languages
 - English
 - Norwegian
 - Polish
 
-## Contact
+---
 
-You can contact me through multiple socials!
+## 📫 Contact
+You can find me here:
 
-[Facebook](https://www.facebook.com/weronika.kwidzynska/)
-
-[Instagarm](https://www.instagram.com/werivik/)
-
-<picture>
- <img alt="A 2D, pixelated, cherry blossom branch with pink flowers and hanging heart shaped decorations." src="images\flowers2.png">
-</picture>
-
-<!--
-**werivik/werivik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/weronika.kwidzynska/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/werivik/)
